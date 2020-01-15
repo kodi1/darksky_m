@@ -1,0 +1,9 @@
+{
+  "domain": "darksky_m",
+  "name": "darksky mod - alerts and clouds",
+  "documentation": "https://github.com/kodi1/darksky_m",
+  "dependencies": [],
+  "codeowners": ["@kodi1"],
+  "requirements": [],
+  "version": "0.0.1"
+}
